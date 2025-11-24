@@ -9,24 +9,22 @@
 
 ### 🧭 About Me  
 🎓 Pursuing **MS in Computer Engineering** @ *Stevens Institute of Technology* (Graduating May 2025)  
-💼 Passionate about developing **secure, scalable backend systems** and **AI-powered applications**  
-⚙️ Experienced in designing architectures with **FastAPI**, **PostgreSQL**, and **Docker**  
-🤖 Enthusiast in **machine learning**, **automation**, and **data-centric design**
+💼 Passionate about developing **secure, scalable backend systems** and **AI-driven applications**  
+🤖 Exploring **machine learning**, **automation**, and **data-centric system design**  
+⚙️ Experienced in designing architectures with **FastAPI**, **PostgreSQL**, and **Docker**
 
 ---
 
 ### 🧠 Featured Skills  
-
-| Area | Tools & Technologies |
-|------|----------------------|
-| **Programming** | Python, JavaScript, C++ |
-| **Frameworks** | FastAPI, React, Node.js |
-| **Databases** | PostgreSQL, MongoDB |
-| **AI / ML** | TensorFlow, PyTorch, Scikit-learn |
-| **Dev Tools** | Docker, GitHub Actions, AWS, VS Code |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,nodejs,postgresql,mongodb,docker,aws,tensorflow,pytorch,git,githubactions" />
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,postgresql,docker,aws,git,js,tensorflow,pytorch" />
+  <b>Languages:</b> Python, JavaScript, C++ • 
+  <b>Frameworks:</b> FastAPI, React, Node.js • 
+  <b>AI & ML:</b> TensorFlow, PyTorch, Scikit-learn • 
+  <b>Tools:</b> Docker, AWS, GitHub Actions
 </p>
 
 ---
@@ -54,10 +52,11 @@ A full-featured backend for modern SaaS platforms:
 
 ---
 
-### 🛠️ Currently Working On  
-- Enhancing **SaaS backend** architecture with GitHub OAuth login and advanced caching  
-- Experimenting with **GraphQL + FastAPI** integration  
-- Building reusable **authentication modules** for microservices  
+### 🤖 Currently Working On  
+- Developing **AI-assisted code optimization tools** for backend efficiency  
+- Enhancing **SaaS App** with GitHub OAuth login & scalable container workflows  
+- Experimenting with **LLM-powered anomaly detection** and **AI prompt routing**  
+- Building **microservices that learn and adapt from usage data**  
 
 ---
 
