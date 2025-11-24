@@ -40,4 +40,37 @@
 ---
 
 ### 🚀 Highlight Project — [SaaS App](https://github.com/vaibhavrikhy/SaasApp)
-A full-featured backend for modern
+A full-featured backend for modern SaaS platforms:
+- 🔐 Secure JWT Authentication + MFA  
+- 🧩 Role-Based Access Control  
+- 🔑 API Key Management  
+- 💎 Premium Feature Gating  
+- 🐳 Dockerized PostgreSQL Deployment  
+
+> Built for scalability, security, and maintainability — inspired by real-world SaaS architectures.
+
+---
+
+### 🧩 Featured Projects  
+
+| Project | Description | Stack |
+|----------|--------------|-------|
+| 🎧 [Hybrid Music Recommendation](https://github.com/vaibhavrikhy/MusicRecommendation) | Combines KNN, SVD, and deep learning models for hybrid recommendations | FastAPI, PyTorch |
+| 🧠 [Fraud Detection System](https://github.com/vaibhavrikhy/FraudDetection) | Deep learning system for financial anomaly detection | TensorFlow, Pandas |
+| 🏋️ [Athletic Performance Predictor](https://github.com/vaibhavrikhy/AthleticPerformance) | Predicts athlete stats from track data | TensorFlow, NumPy |
+| 🏗️ [E-Commerce Sales Model](https://github.com/vaibhavrikhy/EcommercePrediction) | Regression-based forecasting on Kaggle dataset | Scikit-learn, Matplotlib |
+
+---
+
+### 🤖 Currently Working On  
+| Focus Area | Description |
+|-------------|-------------|
+| 💡 **AI Systems** | Building **LLM-powered anomaly detection** and **code-generation pipelines** |
+| ⚙️ **SaaS Engineering** | Expanding **SaaS App** with GitHub OAuth, Redis caching, and microservice orchestration |
+| 📊 **Data & Analytics** | Integrating data-driven dashboards and auto-scaling query engines |
+| 🧠 **AI Research** | Exploring **agentic frameworks** and **prompt routing systems** for adaptive models |
+
+---
+
+### ✨ Personal Note  
+> *Every project I build refines how I think — engineering isn’t just logic, it’s art through structure.*
