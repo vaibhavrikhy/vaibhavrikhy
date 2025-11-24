@@ -2,6 +2,10 @@
 <h3 align="center">Software Engineer | SaaS • AI • Cloud</h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-%2300C853?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+<p align="center">
   <em>“Building intelligent, scalable systems that merge engineering with creativity.”</em>
 </p>
 
@@ -48,28 +52,4 @@ A full-featured backend for modern SaaS platforms:
 | 🎧 [Hybrid Music Recommendation](https://github.com/vaibhavrikhy/MusicRecommendation) | Combines KNN, SVD, and deep learning models for hybrid recommendations | FastAPI, PyTorch |
 | 🧠 [Fraud Detection System](https://github.com/vaibhavrikhy/FraudDetection) | Deep learning system for financial anomaly detection | TensorFlow, Pandas |
 | 🏋️ [Athletic Performance Predictor](https://github.com/vaibhavrikhy/AthleticPerformance) | Predicts athlete stats from track data | TensorFlow, NumPy |
-| 🏗️ [E-Commerce Sales Model](https://github.com/vaibhavrikhy/EcommercePrediction) | Regression-based forecasting on Kaggle dataset | Scikit-learn, Matplotlib |
-
----
-
-### 🤖 Currently Working On  
-| Focus Area | Description |
-|-------------|-------------|
-| 💡 **AI Systems** | Building **LLM-powered anomaly detection** and **code-generation pipelines** |
-| ⚙️ **SaaS Engineering** | Expanding **SaaS App** with GitHub OAuth, Redis caching, and microservice orchestration |
-| 📊 **Data & Analytics** | Integrating data-driven dashboards and auto-scaling query engines |
-| 🧠 **AI Research** | Exploring **agentic frameworks** and **prompt routing systems** for adaptive models |
-
----
-
-### 🌍 Let’s Connect  
-<p align="center">
-  <a href="mailto:vaibhavrikhy@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/vaibhavrikhy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/vaibhavrikhy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-### ✨ Personal Note  
-> *Every project I build refines how I think — engineering isn’t just logic, it’s art through structure.*
+| 🏗️ [E-Commerce Sales Model](https://github.com/vaibhavrikhy/EcommercePrediction) | Regression-based forecasting on
