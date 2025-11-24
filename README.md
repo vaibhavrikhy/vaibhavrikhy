@@ -26,10 +26,12 @@
   <img src="https://skillicons.dev/icons?i=python,fastapi,react,nodejs,postgresql,mongodb,docker,aws,tensorflow,pytorch,git,githubactions" />
 </p>
 
-💬 **Languages:** Python, JavaScript, C++  
-🚀 **Frameworks:** FastAPI, React, Node.js  
-🧩 **AI & ML:** TensorFlow, PyTorch, Scikit-learn  
-🛠️ **Tools:** Docker, AWS, GitHub Actions  
+💬 **Languages:** Python, JavaScript, C++, SQL  
+🚀 **Frameworks:** FastAPI, React, Node.js, Express.js  
+🧩 **AI & ML:** TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas  
+🗄️ **Databases:** PostgreSQL, MongoDB, SQLite  
+☁️ **Cloud & DevOps:** AWS (EC2, S3, Lambda), Docker, GitHub Actions  
+🛠️ **Tools:** Git, VS Code, Postman, Linux, Jupyter Notebook  
 
 ---
 
