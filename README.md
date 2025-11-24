@@ -2,59 +2,66 @@
 <h3 align="center">Software Engineer | SaaS • AI • Cloud</h3>
 
 <p align="center">
-  <img src="/mnt/data/A_digital_graphic_design_banner_showcases_Vaibhav_.png" alt="Vaibhav Rikhy Banner" width="100%">
+  <em>“Building intelligent, scalable systems that merge engineering with creativity.”</em>
 </p>
 
 ---
 
-### 🚀 About Me  
-🎓 MS in Computer Engineering @ *Stevens Institute of Technology* (May 2025)  
-💼 Building scalable SaaS applications using **FastAPI, PostgreSQL, and Docker**  
-🤖 Exploring **AI-driven systems** and **ML-based fraud detection**  
-⚙️ Focused on **writing efficient, maintainable, production-grade code**
+### 🧭 About Me  
+🎓 Pursuing **MS in Computer Engineering** @ *Stevens Institute of Technology* (Graduating May 2025)  
+💼 Software Engineer passionate about crafting **robust backend systems** and **AI-powered applications**  
+⚙️ Skilled in designing architectures with **FastAPI, PostgreSQL, and Docker**  
+🤖 Fascinated by **AI automation**, **fraud detection**, and **data-driven decision systems**
 
 ---
 
-### ⚙️ Tech Stack  
-🧠 **Languages:** Python, JavaScript, C++  
-🚀 **Frameworks:** FastAPI, React, Node.js  
-🗄️ **Databases:** PostgreSQL, MongoDB  
-🛠️ **Tools:** Docker, GitHub Actions, PyTorch, TensorFlow  
+### 🧠 Technical Toolkit  
+
+**Languages:** Python, JavaScript, C++  
+**Frameworks:** FastAPI, React, Node.js  
+**Databases:** PostgreSQL, MongoDB  
+**Tools & Platforms:** Docker, AWS, GitHub Actions, TensorFlow, PyTorch  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,docker,git,react,js,githubactions" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,postgresql,docker,aws,git,js,tensorflow,pytorch" />
 </p>
 
 ---
 
-### 🧩 Featured Project — [SaaS App](https://github.com/vaibhavrikhy/SaasApp)
-A production-ready backend with:
-- 🔐 JWT Authentication + MFA  
+### 🚀 Highlight Project – [SaaS App](https://github.com/vaibhavrikhy/SaasApp)
+A full-featured backend for modern SaaS products:  
+- 🔐 Secure JWT Authentication + MFA  
 - 🧩 Role-Based Access Control  
 - 🔑 API Key Management  
 - 💎 Premium Feature Gating  
-- 🐳 Dockerized PostgreSQL Deployment  
+- 🐳 Fully Dockerized PostgreSQL Stack  
+
+> Built for scalability, maintainability, and real-world deployment.
 
 ---
 
-### 📌 Notable Projects
-🎧 [Hybrid Music Recommender](https://github.com/vaibhavrikhy/MusicRecommendation)  
-🏋️ [Athletic Performance Predictor](https://github.com/vaibhavrikhy/AthleticPerformance)  
-🧠 [Fraud Detection (DL)](https://github.com/vaibhavrikhy/FraudDetection)  
-🏗️ [E-Commerce Sales Model](https://github.com/vaibhavrikhy/EcommercePrediction)
+### 🧩 Featured Projects  
+
+| Project | Description | Stack |
+|----------|--------------|-------|
+| 🎧 [Hybrid Music Recommendation](https://github.com/vaibhavrikhy/MusicRecommendation) | Combines KNN, SVD, and DL models for music prediction | FastAPI, PyTorch |
+| 🧠 [Fraud Detection System](https://github.com/vaibhavrikhy/FraudDetection) | Deep learning model for transaction anomaly detection | TensorFlow, Pandas |
+| 🏋️ [Athletic Performance Predictor](https://github.com/vaibhavrikhy/AthleticPerformance) | Predicts athlete stats from TFRRS data | TensorFlow, NumPy |
+| 🏗️ [E-Commerce Sales Predictor](https://github.com/vaibhavrikhy/EcommercePrediction) | Regression-based sales forecast model | Scikit-learn, Matplotlib |
 
 ---
 
-### 📊 Stats
+### 🌍 Let’s Connect  
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vaibhavrikhy&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavrikhy&theme=tokyonight&hide_border=true" />
+  <a href="mailto:vaibhavrikhy@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vaibhavrikhy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/vaibhavrikhy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🌐 Connect
-<p align="center">
-  <a href="mailto:vaibhavrikhy@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/vaibhavrikhy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/vaibhavrikhy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=
+### ✨ Personal Note  
+> *Every system I build refines how I think — engineering isn’t just logic, it’s art through structure.*
+
+---
+
