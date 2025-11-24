@@ -8,10 +8,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-%2300C853?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-<p align="center">
   <em>“Building intelligent, scalable systems that merge engineering with creativity.”</em>
 </p>
 
@@ -30,22 +26,20 @@
   <img src="https://skillicons.dev/icons?i=python,fastapi,react,nodejs,postgresql,mongodb,docker,aws,tensorflow,pytorch,git,githubactions" />
 </p>
 
-<p align="center">
-  <b>Languages:</b> Python, JavaScript, C++ • 
-  <b>Frameworks:</b> FastAPI, React, Node.js • 
-  <b>AI & ML:</b> TensorFlow, PyTorch, Scikit-learn • 
-  <b>Tools:</b> Docker, AWS, GitHub Actions
-</p>
+💬 **Languages:** Python, JavaScript, C++  
+🚀 **Frameworks:** FastAPI, React, Node.js  
+🧩 **AI & ML:** TensorFlow, PyTorch, Scikit-learn  
+🛠️ **Tools:** Docker, AWS, GitHub Actions  
 
 ---
 
 ### 🚀 Highlight Project — [SaaS App](https://github.com/vaibhavrikhy/SaasApp)
-A full-featured backend for modern SaaS platforms:
-- 🔐 Secure JWT Authentication + MFA  
-- 🧩 Role-Based Access Control  
-- 🔑 API Key Management  
-- 💎 Premium Feature Gating  
-- 🐳 Dockerized PostgreSQL Deployment  
+A full-featured backend for modern SaaS platforms featuring:  
+🔐 Secure JWT Authentication + MFA  
+🧩 Role-Based Access Control  
+🔑 API Key Management  
+💎 Premium Feature Gating  
+🐳 Dockerized PostgreSQL Deployment  
 
 > Built for scalability, security, and maintainability — inspired by real-world SaaS architectures.
 
@@ -53,24 +47,17 @@ A full-featured backend for modern SaaS platforms:
 
 ### 🧩 Featured Projects  
 
-| Project | Description | Stack |
-|----------|--------------|-------|
-| 🎧 [Hybrid Music Recommendation](https://github.com/vaibhavrikhy/MusicRecommendation) | Combines KNN, SVD, and deep learning models for hybrid recommendations | FastAPI, PyTorch |
-| 🧠 [Fraud Detection System](https://github.com/vaibhavrikhy/FraudDetection) | Deep learning system for financial anomaly detection | TensorFlow, Pandas |
-| 🏋️ [Athletic Performance Predictor](https://github.com/vaibhavrikhy/AthleticPerformance) | Predicts athlete stats from track data | TensorFlow, NumPy |
-| 🏗️ [E-Commerce Sales Model](https://github.com/vaibhavrikhy/EcommercePrediction) | Regression-based forecasting on Kaggle dataset | Scikit-learn, Matplotlib |
+🎧 **[Hybrid Music Recommendation](https://github.com/vaibhavrikhy/MusicRecommendation)** — Combines KNN, SVD, and deep learning models for hybrid recommendations.  
+🧠 **[Fraud Detection System](https://github.com/vaibhavrikhy/FraudDetection)** — Deep learning system for financial anomaly detection using TensorFlow.  
+🏋️ **[Athletic Performance Predictor](https://github.com/vaibhavrikhy/AthleticPerformance)** — Predicts athlete stats using ANN models and TensorFlow.  
+🏗️ **[E-Commerce Sales Model](https://github.com/vaibhavrikhy/EcommercePrediction)** — Regression-based forecasting model using Scikit-learn.  
 
 ---
 
 ### 🤖 Currently Working On  
-| Focus Area | Description |
-|-------------|-------------|
-| 💡 **AI Systems** | Building **LLM-powered anomaly detection** and **code-generation pipelines** |
-| ⚙️ **SaaS Engineering** | Expanding **SaaS App** with GitHub OAuth, Redis caching, and microservice orchestration |
-| 📊 **Data & Analytics** | Integrating data-driven dashboards and auto-scaling query engines |
-| 🧠 **AI Research** | Exploring **agentic frameworks** and **prompt routing systems** for adaptive models |
+💡 Building **LLM-powered anomaly detection** and **AI-based code generation pipelines**  
+⚙️ Expanding **SaaS App** with GitHub OAuth, Redis caching, and microservice orchestration  
+📊 Integrating **data-driven dashboards** and scalable analytics layers  
+🧠 Exploring **agentic frameworks** and **adaptive AI systems**
 
 ---
-
-### ✨ Personal Note  
-> *Every project I build refines how I think — engineering isn’t just logic, it’s art through structure.*
