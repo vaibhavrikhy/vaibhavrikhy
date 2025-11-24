@@ -9,18 +9,21 @@
 
 ### 🧭 About Me  
 🎓 Pursuing **MS in Computer Engineering** @ *Stevens Institute of Technology* (Graduating May 2025)  
-💼 Software Engineer passionate about crafting **robust backend systems** and **AI-powered applications**  
-⚙️ Skilled in designing architectures with **FastAPI, PostgreSQL, and Docker**  
-🤖 Fascinated by **AI automation**, **fraud detection**, and **data-driven decision systems**
+💼 Passionate about developing **secure, scalable backend systems** and **AI-powered applications**  
+⚙️ Experienced in designing architectures with **FastAPI**, **PostgreSQL**, and **Docker**  
+🤖 Enthusiast in **machine learning**, **automation**, and **data-centric design**
 
 ---
 
-### 🧠 Technical Toolkit  
+### 🧠 Featured Skills  
 
-**Languages:** Python, JavaScript, C++  
-**Frameworks:** FastAPI, React, Node.js  
-**Databases:** PostgreSQL, MongoDB  
-**Tools & Platforms:** Docker, AWS, GitHub Actions, TensorFlow, PyTorch  
+| Area | Tools & Technologies |
+|------|----------------------|
+| **Programming** | Python, JavaScript, C++ |
+| **Frameworks** | FastAPI, React, Node.js |
+| **Databases** | PostgreSQL, MongoDB |
+| **AI / ML** | TensorFlow, PyTorch, Scikit-learn |
+| **Dev Tools** | Docker, GitHub Actions, AWS, VS Code |
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,react,postgresql,docker,aws,git,js,tensorflow,pytorch" />
@@ -28,15 +31,15 @@
 
 ---
 
-### 🚀 Highlight Project – [SaaS App](https://github.com/vaibhavrikhy/SaasApp)
-A full-featured backend for modern SaaS products:  
+### 🚀 Highlight Project — [SaaS App](https://github.com/vaibhavrikhy/SaasApp)
+A full-featured backend for modern SaaS platforms:
 - 🔐 Secure JWT Authentication + MFA  
 - 🧩 Role-Based Access Control  
 - 🔑 API Key Management  
 - 💎 Premium Feature Gating  
-- 🐳 Fully Dockerized PostgreSQL Stack  
+- 🐳 Dockerized PostgreSQL Deployment  
 
-> Built for scalability, maintainability, and real-world deployment.
+> Built for scalability, security, and maintainability — inspired by real-world SaaS architectures.
 
 ---
 
@@ -44,10 +47,17 @@ A full-featured backend for modern SaaS products:
 
 | Project | Description | Stack |
 |----------|--------------|-------|
-| 🎧 [Hybrid Music Recommendation](https://github.com/vaibhavrikhy/MusicRecommendation) | Combines KNN, SVD, and DL models for music prediction | FastAPI, PyTorch |
-| 🧠 [Fraud Detection System](https://github.com/vaibhavrikhy/FraudDetection) | Deep learning model for transaction anomaly detection | TensorFlow, Pandas |
-| 🏋️ [Athletic Performance Predictor](https://github.com/vaibhavrikhy/AthleticPerformance) | Predicts athlete stats from TFRRS data | TensorFlow, NumPy |
-| 🏗️ [E-Commerce Sales Predictor](https://github.com/vaibhavrikhy/EcommercePrediction) | Regression-based sales forecast model | Scikit-learn, Matplotlib |
+| 🎧 [Hybrid Music Recommendation](https://github.com/vaibhavrikhy/MusicRecommendation) | Combines KNN, SVD, and deep learning models for hybrid recommendations | FastAPI, PyTorch |
+| 🧠 [Fraud Detection System](https://github.com/vaibhavrikhy/FraudDetection) | Deep learning system for financial anomaly detection | TensorFlow, Pandas |
+| 🏋️ [Athletic Performance Predictor](https://github.com/vaibhavrikhy/AthleticPerformance) | Predicts athlete stats from track data | TensorFlow, NumPy |
+| 🏗️ [E-Commerce Sales Model](https://github.com/vaibhavrikhy/EcommercePrediction) | Regression-based forecasting on Kaggle dataset | Scikit-learn, Matplotlib |
+
+---
+
+### 🛠️ Currently Working On  
+- Enhancing **SaaS backend** architecture with GitHub OAuth login and advanced caching  
+- Experimenting with **GraphQL + FastAPI** integration  
+- Building reusable **authentication modules** for microservices  
 
 ---
 
@@ -61,7 +71,4 @@ A full-featured backend for modern SaaS products:
 ---
 
 ### ✨ Personal Note  
-> *Every system I build refines how I think — engineering isn’t just logic, it’s art through structure.*
-
----
-
+> *Every project I build refines how I think — engineering isn’t just logic, it’s art through structure.*
