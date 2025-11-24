@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:vaibhavrikhy28@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="35" alt="email"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="35" alt="gmail"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/vaibhavrikhy/">
@@ -18,7 +18,6 @@
 <p align="center">
   <em>“Building intelligent, scalable systems that merge engineering with creativity.”</em>
 </p>
-
 ---
 
 ### 🧭 About Me  
