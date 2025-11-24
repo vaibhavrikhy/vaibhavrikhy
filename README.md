@@ -14,7 +14,7 @@
 ---
 
 ### 🧭 About Me  
-🎓 Pursuing **MS in Computer Engineering** @ *Stevens Institute of Technology* (Graduating May 2025)  
+🎓 **Master's in Computer Engineering** @ *Stevens Institute of Technology* (Graduating May 2025)  
 💼 Focused on developing **secure backend systems** and **AI-driven software solutions**  
 🤖 Passionate about **machine learning**, **automation**, and **data-driven design**  
 ⚙️ Experienced with **FastAPI**, **PostgreSQL**, **Docker**, and **AWS** for production-grade systems  
