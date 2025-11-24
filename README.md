@@ -9,9 +9,9 @@
 
 ### 🧭 About Me  
 🎓 Pursuing **MS in Computer Engineering** @ *Stevens Institute of Technology* (Graduating May 2025)  
-💼 Passionate about developing **secure, scalable backend systems** and **AI-driven applications**  
-🤖 Exploring **machine learning**, **automation**, and **data-centric system design**  
-⚙️ Experienced in designing architectures with **FastAPI**, **PostgreSQL**, and **Docker**
+💼 Focused on developing **secure backend systems** and **AI-driven software solutions**  
+🤖 Passionate about **machine learning**, **automation**, and **data-driven design**  
+⚙️ Experienced with **FastAPI**, **PostgreSQL**, **Docker**, and **AWS** for production-grade systems  
 
 ---
 
@@ -53,10 +53,12 @@ A full-featured backend for modern SaaS platforms:
 ---
 
 ### 🤖 Currently Working On  
-- Developing **AI-assisted code optimization tools** for backend efficiency  
-- Enhancing **SaaS App** with GitHub OAuth login & scalable container workflows  
-- Experimenting with **LLM-powered anomaly detection** and **AI prompt routing**  
-- Building **microservices that learn and adapt from usage data**  
+| Focus Area | Description |
+|-------------|-------------|
+| 💡 **AI Systems** | Building **LLM-powered anomaly detection** and **code-generation pipelines** |
+| ⚙️ **SaaS Engineering** | Expanding **SaaS App** with GitHub OAuth, Redis caching, and microservice orchestration |
+| 📊 **Data & Analytics** | Integrating data-driven dashboards and auto-scaling query engines |
+| 🧠 **AI Research** | Exploring **agentic frameworks** and **prompt routing systems** for adaptive models |
 
 ---
 
