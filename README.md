@@ -55,8 +55,7 @@ A full-featured backend for modern SaaS platforms featuring:
 🎧 Music SaaS API — Scalable FastAPI-powered SaaS backend with JWT auth, MFA, and role-based access control for music data services.
 
 🧠 Anti-Social Online Behaviour Detection — NLP pipeline analyzing toxic or anti-social text using transformer models for content moderation.
-
-🏋️ Athletic Performance Predictor — ANN-based model predicting athlete metrics from TFRRS datasets for performance analysis.
+a
 ---
 
 
