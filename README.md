@@ -45,16 +45,19 @@ A full-featured backend for modern SaaS platforms featuring:
 
 > Built for scalability, security, and maintainability — inspired by real-world SaaS architectures.
 
+
 ---
 
 ### 🧩 Featured Projects  
 
 🎧 **[Hybrid Music Recommendation](https://github.com/vaibhavrikhy/MusicRecommendation)** — Combines KNN, SVD, and deep learning models for hybrid recommendations.  
-🧠 **[Fraud Detection System](https://github.com/vaibhavrikhy/FraudDetection)** — Deep learning system for financial anomaly detection using TensorFlow.  
+🧠 **[Fraud Detection System](https://github.com/vaibhavrikhy/FraudDetection)** — Deep learning–based fraud detection model using TensorFlow and GridSearchCV, achieving 93% accuracy on imbalanced datasets.  
+💳 **[Fraud Detection (v2)](https://github.com/vaibhavrikhy/Fraud-detection)** — Advanced version implementing anomaly detection, transaction feature engineering, and deep neural networks for real-time fraud prevention.  
 🏋️ **[Athletic Performance Predictor](https://github.com/vaibhavrikhy/AthleticPerformance)** — Predicts athlete stats using ANN models and TensorFlow.  
 🏗️ **[E-Commerce Sales Model](https://github.com/vaibhavrikhy/EcommercePrediction)** — Regression-based forecasting model using Scikit-learn.  
 
 ---
+
 
 ### 🤖 Currently Working On  
 💡 Building **LLM-powered anomaly detection** and **AI-based code generation pipelines**  
