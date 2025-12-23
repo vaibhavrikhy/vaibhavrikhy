@@ -50,12 +50,13 @@ A full-featured backend for modern SaaS platforms featuring:
 
 ### 🧩 Featured Projects  
 
-🎧 **[Hybrid Music Recommendation](https://github.com/vaibhavrikhy/MusicRecommendation)** — Combines KNN, SVD, and deep learning models for hybrid recommendations.  
-🧠 **[Fraud Detection System](https://github.com/vaibhavrikhy/FraudDetection)** — Deep learning–based fraud detection model using TensorFlow and GridSearchCV, achieving 93% accuracy on imbalanced datasets.  
-💳 **[Fraud Detection (v2)](https://github.com/vaibhavrikhy/Fraud-detection)** — Advanced version implementing anomaly detection, transaction feature engineering, and deep neural networks for real-time fraud prevention.  
-🏋️ **[Athletic Performance Predictor](https://github.com/vaibhavrikhy/AthleticPerformance)** — Predicts athlete stats using ANN models and TensorFlow.  
-🏗️ **[E-Commerce Sales Model](https://github.com/vaibhavrikhy/EcommercePrediction)** — Regression-based forecasting model using Scikit-learn.  
+💳 Fraud Detection— Deep learning–based transaction fraud detection system using TensorFlow and feature-driven anomaly modeling.
 
+🎧 Music SaaS API — Scalable FastAPI-powered SaaS backend with JWT auth, MFA, and role-based access control for music data services.
+
+🧠 Anti-Social Online Behaviour Detection — NLP pipeline analyzing toxic or anti-social text using transformer models for content moderation.
+
+🏋️ Athletic Performance Predictor — ANN-based model predicting athlete metrics from TFRRS datasets for performance analysis.
 ---
 
 
