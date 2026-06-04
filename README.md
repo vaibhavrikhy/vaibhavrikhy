@@ -1,3 +1,5 @@
+<h1 align="center">Hey, I'm Vaibhav Rikhy</h1>
+
 <h3 align="center">
 Software Engineer | Backend • AI/ML • Real-Time Systems
 </h3>
