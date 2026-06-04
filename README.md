@@ -1,6 +1,6 @@
-<h1 align="center">Hey, I'm Vaibhav Rikhy</h1>
-<h3 align="center">Software Engineer | AI• Backend • Cloud</h3>
-
+<h3 align="center">
+Software Engineer | Backend • AI/ML • Real-Time Systems
+</h3>
 <p align="center">
   <a href="mailto:vaibhavrikhy@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/vaibhavrikhy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -35,36 +35,43 @@
 
 ---
 
-### 🚀 Highlight Project — [SaaS App](https://github.com/vaibhavrikhy/SaasApp)
-A full-featured backend for modern SaaS platforms featuring:  
-🔐 Secure JWT Authentication + MFA  
-🧩 Role-Based Access Control  
-🔑 API Key Management  
-💎 Premium Feature Gating  
-🐳 Dockerized PostgreSQL Deployment  
+### 🧩 Featured Projects
 
-> Built for scalability, security, and maintainability — inspired by real-world SaaS architectures.
+🎸 **AI Guitar Tuner (In Development)**
+Real-time guitar tuner built with React and the Web Audio API featuring DSP-based pitch detection, waveform visualization, FFT spectrum analysis, confidence scoring, and manual string tuning modes. Currently evolving toward a hybrid DSP + Machine Learning tuning engine.
 
+📈 **Athletic Performance Predictor**
+Artificial Neural Network–based prediction system trained on TFRRS athlete datasets to analyze and forecast performance metrics using feature-driven modeling and data preprocessing pipelines.
 
----
+💳 **Fraud Detection System**
+Deep learning–based transaction fraud detection platform utilizing TensorFlow, anomaly detection techniques, feature engineering, and classification models for identifying suspicious financial activity.
 
-### 🧩 Featured Projects  
+🎧 **Music Recommendation System**
+Machine learning recommendation engine leveraging clustering, similarity analysis, and neural networks to generate personalized music suggestions from large-scale music datasets.
 
-💳 Fraud Detection— Deep learning–based transaction fraud detection system using TensorFlow and feature-driven anomaly modeling.
+🧠 **Anti-Social Online Behaviour Detection**
+NLP-based content moderation system utilizing transformer architectures and text classification techniques to identify toxic, abusive, and anti-social online interactions.
 
-🎧 Music SaaS API — Scalable FastAPI-powered SaaS backend with JWT auth, MFA, and role-based access control for music data services.
-
-🧠 Anti-Social Online Behaviour Detection — NLP pipeline analyzing toxic or anti-social text using transformer models for content moderation.
-
-🏋️ Athletic Performance Predictor — ANN-based model predicting athlete metrics from TFRRS datasets for performance analysis.
+⚡ **SaaS Application Backend**
+Production-oriented FastAPI backend implementing JWT authentication, MFA, RBAC, API key management, premium feature gating, PostgreSQL persistence, and Dockerized deployment workflows.
 
 ---
+### 🚀 Highlight Project — AI Guitar Tuner (In Development)
 
+A real-time guitar tuner built with React and the Web Audio API featuring DSP-based pitch detection, waveform visualization, FFT spectrum analysis, signal confidence estimation, and manual string tuning modes.
 
-### 🤖 Currently Working On  
-💡 Building **LLM-powered anomaly detection** and **AI-based code generation pipelines**  
-⚙️ Expanding **SaaS App** with GitHub OAuth, Redis caching, and microservice orchestration  
-📊 Integrating **data-driven dashboards** and scalable analytics layers  
-🧠 Exploring **agentic frameworks** and **adaptive AI systems**
+**Tech Stack:** React, JavaScript, Web Audio API, HTML5 Canvas, DSP
 
+> Currently evolving into a hybrid DSP + Machine Learning system for improved pitch recognition and tuning accuracy.
 ---
+
+### 🤖 Currently Working On
+
+🎸 Developing an AI-assisted Guitar Tuner combining Digital Signal Processing (DSP), real-time audio analysis, confidence estimation, and future machine learning–based pitch classification.
+
+⚙️ Expanding SaaS backend architecture with Redis caching, GitHub OAuth integration, observability tooling, and scalable service design patterns.
+
+🧠 Exploring hybrid DSP + ML systems, agentic AI workflows, and intelligent real-time applications.
+
+☁️ Building cloud-native applications leveraging AWS, Docker, CI/CD pipelines, and production-grade deployment practices.
+
